@@ -1,11 +1,10 @@
 
-## Hi, I'm Sasindu 👋
----
+### Hi, I'm Sasindu 👋
 
-### A passionate software engineer 👨‍💻
+ A passionate software engineer 👨‍💻
 
 
-### 📊 My Technology Stack
+#### 📊 My Technology Stack
 
 
 [//]: # (### 🤝 Connect with Me)
