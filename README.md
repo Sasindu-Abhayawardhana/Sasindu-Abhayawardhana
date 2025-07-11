@@ -43,6 +43,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sasindu-Abhayawardhana&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sasindu-Abhayawardhana&theme=solarized_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sasindu-Abhayawardhana&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sasindu-Abhayawardhana&theme=solarized_dark&utcOffset=8)
+
 <!--
 ### Hi there 👋
 
