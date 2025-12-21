@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasindu-abhayawardhana&show_icons=true&locale=en&layout=compact" alt="sasindu-abhayawardhana" /></p>)
+<!--[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasindu-abhayawardhana&show_icons=true&locale=en&layout=compact" alt="sasindu-abhayawardhana" /></p>)-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasindu-Abhayawardhana&theme=solarized_dark) 
 
